@@ -1,13 +1,14 @@
 {
   "expo": {
     "name": "e-commerce",
-    "slug": "snack-0272aa4d-8bcc-4444-a3d0-edaa7ff8bf87",
+    "slug": "snack-046a49de-e0ff-447b-9fb6-6b1b64d4f8d2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,19 +19,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.jaichai.snack0272aa4d8bcc4444a3d0edaa7ff8bf87"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "c19f7731-ee10-4071-a9a9-7b3a36f7bc0c"
-      }
-    },
-    "plugins": [
-      "expo-font"
-    ]
+    }
   }
 }
